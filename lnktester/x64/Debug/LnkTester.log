@@ -1,0 +1,6 @@
+﻿  CfgFileParms.cpp
+  function.cpp
+F:\计通网\project1_code\Computer-Networks-Project\lnktester\function.cpp(789,20): warning C4309: “=”: 截断常量值
+  LnkTester.cpp
+  正在生成代码...
+  LnkTester.vcxproj -> F:\计通网\project1_code\Computer-Networks-Project\lnktester\x64\Debug\LnkTester.exe
